@@ -43,7 +43,7 @@ st.image(image, use_column_width=True)
 st.markdown("""
 # Bioactivity Prediction App (Protein Kinase B)
 
-This app allows you to predict the bioactivity towards inhibting the `Protein Kinase B` enzyme. `AProtein Kinase B` is a drug target for Leukemia disease.
+This app allows you to predict the bioactivity towards inhibting the `Protein Kinase B` enzyme. `A Protein Kinase B` is a drug target for Leukemia disease.
 
 **Credits**
 - App built in `Python` + `Streamlit` by Sohith.
